@@ -90,6 +90,7 @@ public class CQL2CSV extends AbstractMapper{
             }
 
 //            if (isRangeQuery) {
+//            
 //                Token t = row.getPartitionKeyToken();  
  //           
 //                String token = String.format("%.2f%%", (((Long) t.getValue() >> 48) + 32768) / 65535f * 100);
